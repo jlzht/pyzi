@@ -1,0 +1,10 @@
+astroid==3.3.5
+dill==0.3.9
+isort==5.13.2
+mccabe==0.7.0
+objgraph==3.6.2
+platformdirs==4.3.6
+pycairo==1.27.0
+PyGObject==3.50.0
+pylint==3.3.1
+tomlkit==0.13.2
